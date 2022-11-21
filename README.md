@@ -27,4 +27,4 @@
 </b></p>
                                                                                                       
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauromiottojr&show_icons=true&theme=dark&layout=compact" alt="lauromiottojr" width="400"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lauromiottojr&show_icons=true&theme=dark" alt="lauromiottojr" width="450"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lauromiottojr&show_icons=true&theme=dark" alt="lauromiottojr" width="400"/></p>
