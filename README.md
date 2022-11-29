@@ -1,7 +1,7 @@
 <h3 align="center">Hey 👋, I'm Lauro</h3>
 <h2 align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  A passionate Java developer 👨🏽‍💻</h2> 
+  A Java developer 👨🏽‍💻</h2> 
 
 <h3 align="left">:v: Let's connect!</h3>
 <p align="left">
