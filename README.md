@@ -25,6 +25,7 @@
 - SOLID<br/>
 - Clean Code<br/>
 - TDD<br/>
+- NoSQL<br/>
 </b></p>
                                                                                                       
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauromiottojr&show_icons=true&theme=dark&layout=compact" alt="lauromiottojr" width="400"/></p>
