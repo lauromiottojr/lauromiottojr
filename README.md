@@ -16,7 +16,7 @@
 <hr/>
                                                                                                        
 <h3>🔭 I’m currently working on</h3>                                                                                                       
- <p><b>- Spring Security Project</b></p>
+ <p><b>- Spring Boot Project + MongoDB</b></p>
                                                                                                        
 <h3>🌱 I’m currently learning about</h3>
 <p><b>
