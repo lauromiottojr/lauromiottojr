@@ -5,7 +5,7 @@
 
 <h3 align="left">:v: Let's connect!</h3>
 <p align="left">
- <a href="https://linkedin.com/in/lauro-miotto-373304164/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="https://www.linkedin.com/in/lauro-miotto-373304164/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/lauromiottojr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 <h3 align="left">:mag: I'm searching for a new job as Dev :briefcase:</h3>
 
