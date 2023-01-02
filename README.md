@@ -1,11 +1,11 @@
 <h3 align="center">Hey 👋, I'm Lauro</h3>
 <h2 align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  A Java developer 👨🏽‍💻</h2> 
+  A Java developer 👨🏽‍💻</h2>   
 
 <h3 align="left">:v: Let's connect!</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/lauromiottojr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/lauromiottojr/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48035663/210247757-a482e427-a1f1-4d9d-abcd-cd69550c4297.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 <h3 align="left">:mag: I'm searching for a new job as Dev :briefcase:</h3>
 
