@@ -7,7 +7,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/lauromiottojr/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48035663/210247757-a482e427-a1f1-4d9d-abcd-cd69550c4297.png" alt="linkedin" height="40" width="40" /></a>
 </p>
-<h3 align="left">:mag: I'm searching for a new job as Dev :briefcase:</h3>
+<h3 align="left">:green_heart: I'm working as a Support Specialist at <a href="https://www.chess.com" target="blank">Chess.com</a> :computer: :chess_pawn:</h3>
 
 <h3>:fire: My skills ⚡</br></br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40 height="40"/>
