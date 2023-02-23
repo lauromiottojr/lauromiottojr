@@ -16,7 +16,7 @@
 <hr/>
                                                                                                        
 <h3>🔭 I’m currently working on</h3>                                                                                                       
- <p><b>- Personal project called "My resume"</b></p>
+ <p><b>- Personal project called "Tech resume"</b></p>
                                                                                                        
 <h3>🌱 I’m currently learning about</h3>
 <p><b>
